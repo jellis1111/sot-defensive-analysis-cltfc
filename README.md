@@ -5,7 +5,7 @@ Video-based defensive analysis project conducted with the Charlotte FC Academy. 
 
 The full PowerPoint file (with embedded video + speaker notes) is too large for GitHub.
 Please download it here for full functionality: https://1drv.ms/p/c/e6136387b8c89f60/IQB5wecH-iluRbxFYbhrHZdlAbzfpyxEgj7M_gyoYEri6Zk?e=A99svh
-Or convert/open the file in Microsoft PowerPoint. 
+or convert/open the file in the Microsoft PowerPoint desktop application. 
 
 CLTFC Shots on Target Against Analysis
 Performance & Defensive Analysis – Charlotte FC Academy (2025)
